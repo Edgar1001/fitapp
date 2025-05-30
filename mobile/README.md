@@ -1,50 +1,85 @@
-# Welcome to your Expo app 👋
+# Fitapp
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Fitapp** is a modern fitness tracking mobile application built with React Native and TypeScript, designed for both Android and iOS platforms. 
+It helps users track their physical activity, set personalized goals, and visualize their progress using intuitive and interactive layouts.
 
-## Get started
+---
 
-1. Install dependencies
+## Features
 
+### Authentication
+- Secure login and user session management.
+- Personalized user profile setup.
+
+### Activity Tracking
+- Save and track activities on a daily, weekly, and monthly basis.
+- Visualize progress through interactive layouts and bar completion graphs.
+- Uses GPS to track distance (km/day) accurately.
+
+### Personalized Goals
+- Custom fitness goals generated based on user profile data.
+- Daily and weekly goal completion tracking with progress indicators.
+
+### Statistics Dashboard
+- View detailed performance trends:
+  - Weekly summaries
+  - Monthly overviews
+  - Completion rates in visual charts
+
+### Theme Customization
+- Easily toggle between Dark Mode and Light Mode.
+
+### Multilingual Support
+- Available in English and Spanish.
+- Language selection handled automatically or manually via the settings screen.
+
+---
+
+##  Tech Stack
+
+- **React Native** – Cross-platform mobile development
+- **TypeScript** – Type-safe JavaScript
+- **React Navigation** – Smooth navigation between app screens
+- **AsyncStorage / SecureStore** – Persistent local storage
+- **GPS/Geolocation APIs** – Real-time tracking
+- **Context API / Redux** – For managing global state
+
+---
+
+## UI Overview
+
+- **Home Screen:** Displays a summary of daily and weekly goals, with bar progress indicators.
+- **Calendar Screen:** Allows users to view and select past activity data by date.
+- **Map Screen:** Shows GPS-tracked routes and distance covered on a map.
+- **Stats Screen:** Visual breakdown of activity trends with weekly/monthly analytics.
+- **Profile Screen:** Manage personal info, fitness goals, and preferences.
+- **Settings Screen:** Language selection (English/Spanish), theme toggle, and app settings.
+
+---
+
+##  Installation
+
+1. Clone the repository
+   ```bash
+   git clone
+   cd fitapp
+   ```
+2. Install dependencies
    ```bash
    npm install
+   or
+   yarn install
    ```
 
-2. Start the app
-
+3. Run on Android:
+   Make sure an emulator is running or a device is connected
    ```bash
-    npx expo start
+   npx react-native run-android
    ```
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+4. Run on iOS:
+   Only on macOS with Xcode and CocoaPods installed
+   ```bash
+   npx pod-install
+   npx react-native run-ios
+   ```
