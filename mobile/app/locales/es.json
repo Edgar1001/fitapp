@@ -1,0 +1,314 @@
+{
+    "login": {
+      "title": "Iniciar sesión",
+      "email": "Correo electrónico",
+      "password": "Contraseña",
+      "submit": "Entrar",
+      "connecting": "Conectando...",
+      "error": "Falló el acceso. Revisa tus credenciales."
+    },
+    "viewer": {
+      "title": "Fitness Tracker",
+      "home": "Inicio",
+      "calendar": "Calendario",
+      "map": "Mapa",
+      "profile": "Perfil",
+      "settings": "Configuracion",
+      "logout": "Cerrar sesión",
+      "contact": "Página de contacto",
+      "otherSettings": "Otras configuraciones"
+    },
+    "settings": {
+    "title": "Configuración",
+    "language": "Idioma",
+    "english": "Inglés",
+    "spanish": "Español",
+    "updates": "Actualizaciones",
+    "contact": "Contacto",
+    "back": "Volver a Configuración",
+    "updatesTitle": "Próximas actualizaciones de la app:\n",
+    "updateList": "- Función de recuperación de contraseña\n- Notificaciones push\n- Tema oscuro/claro\n- Selección de idioma\n- Pulido de la interfaz",
+    "contactMessage": "Esta app fue lanzada para mejorar el conocimiento sobre el desarrollo de Android.\nSe actualizará gradualmente según los comentarios.\nSi tienes alguna pregunta, no dudes en contactarme.\n\n∼ Desarrollado por E.R. ∼",
+    "lightTheme": "Cambiar a tema claro",
+    "darkTheme": "Cambiar a tema oscuro"
+    },
+    "home": {
+      "status": "Activo",
+      "goals": "🏆 Metas",
+      "stats": "📊 Estadísticas",
+      "today": "Hoy",
+      "activeClasses": "🏋️ Clases Activas: {{count}}",
+      "progressCompleted": "📈 {{percent}}% Completado",
+      "ignored": "Ignorado",
+      "ignore": "Ignorar",
+      "done": "Hecho",
+      "markAsDone": "Marcar como hecho",
+      "noSessions": "¡Sin sesiones hoy! Tómate un descanso, {{name}} 🛌",
+      "weeklyProgress": "Progreso Semanal",
+      "previousWeek": "Semana Anterior",
+      "currentWeek": "Semana Actual"
+    },
+    "days": {
+      "Sun": "Dom",
+      "Mon": "Lun",
+      "Tue": "Mar",
+      "Wed": "Mié",
+      "Thu": "Jue",
+      "Fri": "Vie",
+      "Sat": "Sáb"
+    },
+    "stats": {
+      "title": "Tus estadísticas",
+      "monthlyComparison": "Comparación mensual",
+      "weeklyComparison": "Comparación semanal",
+      "week": "Sem",
+      "loading": "Cargando estadísticas..."
+    },
+    "profile": {
+      "title": "Mi Perfil",
+      "changePhoto": "Cambiar Foto",
+      "name": "Nombre",
+      "gender": "Género",
+      "selectGender": "Seleccionar Género",
+      "male": "Hombre",
+      "female": "Mujer",
+      "other": "Otro",
+      "birthday": "Fecha de nacimiento",
+      "weight": "Peso (kg)",
+      "height": "Altura (cm)",
+      "fitnessGoals": "Objetivos de acondicionamiento",
+      "workoutDays": "Días de entrenamiento",
+      "preferredActivity": "Actividad preferida",
+      "selectActivity": "Seleccionar Actividad",
+      "detectLocation": "Detectar Ubicación",
+      "location": "Ubicación",
+      "notifications": "Notificaciones",
+      "saveProfile": "Guardar Perfil",
+      "successTitle": "Éxito",
+      "savedMsg": "¡Perfil guardado!",
+      "updateTitle": "Actualizado",
+      "updatedMsg": "¡Perfil actualizado!",
+      "errorTitle": "Error",
+      "saveFailMsg": "Error al guardar o actualizar el perfil",
+      "saveError": "No se pudo guardar el perfil",
+      "invalidPhotoTitle": "Foto inválida",
+      "invalidPhotoMsg": "Por favor vuelve a seleccionar o sube una foto de perfil.",
+      "permissionDeniedTitle": "Permiso Denegado",
+      "permissionDeniedMsg": "Se requiere permiso de ubicación para detectar tu ubicación.",
+      "locationError": "No se pudo obtener tu ubicación.",
+      "permissionTitle": "Permisos",
+      "permissionPhotoMsg": "Necesitamos permiso para acceder a las fotos",
+      "fitnessGoalOptions": [
+        "Bajar de peso",
+        "Ganar músculo",
+        "Mejorar resistencia",
+        "Flexibilidad",
+        "Mantenerse saludable"
+      ],
+      "workoutDaysList": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes",
+        "Sábado",
+        "Domingo"
+      ],
+      "activities": {
+        "spinning": "Ciclismo indoor",
+        "running": "Correr",
+        "gym": "Gimnasio",
+        "walking": "Caminar",
+        "yoga": "Yoga",
+        "basketball": "Baloncesto",
+        "tennis": "Tenis",
+        "swimming": "Natación"
+      }
+    },
+    "goals": {
+      "title": "Tus Metas",
+      "suggestion": "Sugerencia",
+      "extraActivityTip": "Además, recuerda planificar tu {{activity}} al menos una vez a la semana para mantenerla en la mezcla y mantener el equilibrio."
+    },
+    "weekDetail": {
+    "title": "Resumen de la semana actual",
+    "progressCompleted": "{{percent}}% completado"
+    },
+    "calendar": {
+    "planYourSchedule": "Planifica tu horario",
+    "tapToSelectDate": "Toca para seleccionar la fecha",
+    "currentMonthActivities": "Actividades del mes actual",
+    "view": "Ver",
+    "activityDetails": "Detalles de la actividad",
+    "addDescription": "Añadir una descripción...",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "addActivity": "✏️ Añadir actividad",
+    "date": "Fecha",
+    "activityName": "Nombre de la actividad",
+    "tapToSelectTime": "Toca para seleccionar la hora",
+    "durationMinutes": "Duración (minutos)",
+    "saveActivity": "➕ Guardar actividad",
+    "changeDate": "Cambiar fecha",
+    "minutes": "min",
+    "delete": "Eliminar",
+    "fillAllFields": "⚠️ Por favor, completa todos los campos",
+    "activitySaved": "✅ ¡Actividad guardada!",
+    "activitySaveFailed": "❌ Error al guardar la actividad",
+    "errorOccurred": "❌ Ocurrió un error.",
+    "activityDeleted": "🗑️ ¡Actividad eliminada!",
+    "failedToDelete": "No se pudo eliminar la actividad",
+    "descriptionUpdated": "✅ ¡Descripción actualizada!",
+    "failedToUpdateDescription": "❌ Error al actualizar la descripción"
+    },
+    "motivations": {
+      "zero": [
+        "¡Vamos, {name}! Día grande por delante 💪",
+        "¡Arriba, {name}! Es hora de sudar 🌞",
+        "Nuevo día, nueva meta. ¡Vamos con todo, {name}! ✨",
+        "¡Energía a tope, equipo! Demostremos lo que tenemos ⚡",
+        "Hora de calentar, {name}. Prepárate para darlo todo 🏋️‍♀️",
+        "Actitud lista, mente enfocada — ¡modo bestia activado! 🐯",
+        "Hoy es un lienzo en blanco — ¡píntalo con tu esfuerzo 🎨!",
+        "Convierte tu potencial en progreso real, {name} 🔄",
+        "Pequeños pasos, grandes resultados — ¡empieza ya! 🚶",
+        "¡Listo, preparado, arranca! Tu viaje empieza ahora 🏁"
+      ],
+      "upto25": [
+        "¡Pinta bien, {name}! Mantén esa energía 🚀",
+        "Primeras repeticiones completadas — sigue enfocado 🔥",
+        "Comienzo fuerte — sigue construyendo 🧱",
+        "Buen inicio, {name}. ¡No bajes el ritmo! 📈",
+        "Plantaste la semilla, ahora riégala 🌱",
+        "Un cuarto del camino — todo fluye ⛵",
+        "La chispa ya está — conviértela en fuego 🔥",
+        "Ese esfuerzo temprano marca la diferencia 🎸",
+        "Motor encendido — sigue rodando 🛞",
+        "La inercia te lleva — ¡sigue empujando! 🏃"
+      ],
+      "upto50Excl": [
+        "¡Buen ritmo, {name}! Casi llegas a la mitad 🏃‍♂️",
+        "Estás encendido, sigue dándole 💨",
+        "Cada movimiento cuenta — suma progreso 💰",
+        "El sudor es tu superpoder — ¡actívalo! 💪",
+        "Enfócate — la mitad está cerca 🛤️",
+        "Fuerza acumulada, repetición a repetición 🔧",
+        "Paso firme, vas por buen camino 🧭",
+        "¡Gran ritmo! Mantén esa vibra 🎶",
+        "Confianza creciendo — ¡estás ardiendo! 🔥",
+        "Buen progreso — sigue marcando diferencia 🖍️"
+      ],
+      "exact50": [
+        "¡Mitad del camino, {name}! Respira y sigue fuerte 🏁",
+        "50% hecho — hora de rematar ⛰️",
+        "Mitad superada — estás a tope ✨",
+        "¡Choca esos cinco, {name}! ✋",
+        "Terminaste la primera vuelta — ¡a por la segunda! 🏃‍♀️",
+        "Descanso terminado — ¡seguimos! 🎬",
+        "Dale la vuelta al reloj de arena — ¡segunda mitad! ⏳",
+        "Modo superación activado 😎",
+        "Celebra el 50, pero vamos por el 100 🏆",
+        "Media carga — ¡llénala y continúa! 🔋"
+      ],
+      "upto75": [
+        "¡Ya pasaste la mitad, {name}! Mantén esa llama 💯",
+        "Tienes impulso — ¡aprovéchalo! 💥",
+        "El fuego está encendido — no lo apagues 🔥",
+        "Modo esfuerzo total — no pares 🚜",
+        "Eres la tormenta después de la calma 🌪️",
+        "75% en la mira — mantén la concentración 👀",
+        "El corazón late fuerte — ¡eso es progreso! 🫀",
+        "Resistencia al máximo — estírala más 🧘",
+        "Más allá del 50% — lo grande está por llegar ✨",
+        "¡Súbele el volumen! Sigue avanzando 🎧"
+      ],
+      "upto100Excl": [
+        "Último tramo, {name}! ¡Ya casi! ⚡",
+        "Cruza la meta — ¡estás al 100%! 🏆",
+        "Da ese extra — el éxito está cerca 🏅",
+        "Mentalidad de sprint — termina con todo 🏃‍♂️💨",
+        "Las últimas repeticiones cuentan más ✊",
+        "Ojos en la meta — ¡ya la puedes saborear! 🎯",
+        "Aguanta el ardor — la victoria está a un paso 🔥",
+        "Modo turbo activado — ¡a volar! 🚀",
+        "Estás tan cerca — saborea el éxito 😋",
+        "Casi al 100 — hazlo tuyo 🌠"
+      ],
+      "complete": [
+        "¡Todo listo, {name}! ¡Eres una leyenda 🎉!",
+        "Entrenamiento completo — ¡a celebrar! 🥳",
+        "Trabajo de estrella dorada, {name}! ⭐",
+        "Lo diste todo — ¡hora de descansar! 🛌",
+        "Misión cumplida — sonríe con orgullo 😁",
+        "Éxito desbloqueado — ¡subiste de nivel! 🎮",
+        "Tu esfuerzo valió la pena — ¡recompénsate! 💸",
+        "¡Vibra de victoria — a bailar! 💃",
+        "Hoy: metas conquistadas 📔",
+        "Descansa, hidrátate y brilla — ¡te lo ganaste! 💧"
+      ]
+    },
+    "fitnessGoals": {
+    "title": "Tus Metas de Fitness",
+    "lose_weight": {
+      "title": "Perder Peso",
+      "descriptions": [
+        "Incorpora sesiones de cardio de alta intensidad en tu rutina semanal.",
+        "Rastrea tu ingesta de calorías usando una aplicación de fitness.",
+        "Reemplaza las bebidas azucaradas por agua o tés de hierbas.",
+        "Apunta a 10,000 pasos diarios para mantenerte activo.",
+        "Incluye entrenamiento de fuerza 2–3 veces por semana para aumentar tu metabolismo.",
+        "Duerme al menos 7–8 horas de calidad para apoyar la pérdida de grasa."
+      ]
+    },
+    "gain_muscle": {
+      "title": "Ganar Músculo",
+      "descriptions": [
+        "Enfócate en levantamientos compuestos como sentadillas y peso muerto.",
+        "Aumenta tu ingesta diaria de proteínas para apoyar el crecimiento muscular.",
+        "Entrena cada grupo muscular al menos dos veces por semana.",
+        "Monitorea tu progreso con mediciones regulares.",
+        "Consume alimentos ricos en calorías para mantener un superávit.",
+        "Permite suficiente descanso y recuperación entre sesiones."
+      ]
+    },
+    "improve_endurance": {
+      "title": "Mejorar Resistencia",
+      "descriptions": [
+        "Aumenta gradualmente la duración de tu cardio cada semana.",
+        "Incorpora correr o andar en bicicleta a intervalos.",
+        "Monitorea tus zonas de frecuencia cardíaca para un entrenamiento óptimo.",
+        "Mantente hidratado y aliméntate adecuadamente antes de sesiones largas.",
+        "Agrega cross-training como natación o senderismo.",
+        "Enfócate en técnicas de respiración consistentes."
+      ]
+    },
+    "flexibility": {
+      "title": "Mejorar Flexibilidad",
+      "descriptions": [
+        "Agrega una rutina diaria de estiramiento de 10 minutos.",
+        "Sostén cada estiramiento por al menos 30 segundos.",
+        "Intenta hacer yoga o pilates una vez a la semana.",
+        "Calienta con estiramientos dinámicos antes de entrenar.",
+        "Usa rodillos de espuma para liberar músculos tensos.",
+        "Evita rebotar durante los estiramientos estáticos."
+      ]
+    },
+    "stay_healthy": {
+      "title": "Mantente Saludable",
+      "descriptions": [
+        "Mantén una dieta equilibrada con alimentos integrales.",
+        "Haz ejercicio al menos 150 minutos por semana.",
+        "Prioriza el sueño y la gestión del estrés.",
+        "Hazte chequeos médicos regulares.",
+        "Limita el tiempo frente a la pantalla antes de dormir.",
+        "Practica mindfulness o meditación diariamente."
+      ]
+    },
+    "suggestions": {
+      "more_than_5_days": "¡Lo estás haciendo increíble, pero no olvides que el descanso también es importante! Tomar descansos puede ayudar a prevenir el agotamiento y las lesiones. Intenta reducir los días para una mejor recuperación.",
+      "2_days_or_less": "Hasta ahora has elegido solo {{days}} día(s). Para ver progresos más rápidos, intenta añadir más días a tu rutina. ¡Cuanto más constante seas, más rápido alcanzarás tus metas!",
+      "3_to_5_days": "¡Lo estás haciendo genial con {{days}} día(s)! Como consejo, intenta distribuir esos días a lo largo de la semana y agregar algo de descanso entre ellos. ¡Te ayudará a mantenerte fresco y constante!"
+    }
+  }
+  }
+  

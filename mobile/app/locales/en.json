@@ -1,0 +1,318 @@
+{
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Log In",
+      "connecting": "Connecting...",
+      "error": "Login failed. Check credentials."
+    },
+    "viewer": {
+      "title": "Fitness Tracker",
+      "home": "Home",
+      "calendar": "Calendar",
+      "map": "Map",
+      "profile": "Profile",
+      "settings": "Settings",
+      "logout": "Logout",
+      "contact": "Contact Page",
+      "otherSettings": "Other Settings Page"
+    },
+    "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "english": "English",
+    "spanish": "Spanish",
+    "updates": "Updates",
+    "contact": "Contact",
+    "back": "Back to Settings",
+    "updatesTitle": "Next app updates:\n",
+    "updateList": "- Forgot your password feature\n- Push notifications\n- Dark/Light theme\n- Language selection\n- UI polishing",
+    "contactMessage": "This app was launched to improve knowledge of android development.\nIt will be updated gradually based on feedback.\nIf you have any questions, please don't hesitate to reach me.\n\n∼ Developed by E.R. ∼",
+    "lightTheme": "Switch to Light Theme",
+    "darkTheme": "Switch to Dark Theme"
+     },
+    "home": {
+      "status": "Active",
+      "goals": "🏆 Goals",
+      "stats": "📊 Stats",
+      "today": "Today",
+      "activeClasses": "🏋️ Active Classes: {{count}}",
+      "progressCompleted": "📈 {{percent}}% Completed",
+      "ignored": "Ignored",
+      "ignore": "Ignore",
+      "done": "Done",
+      "markAsDone": "Mark as Done",
+      "noSessions": "No sessions today! Take some rest, {{name}} 🛌",
+      "weeklyProgress": "Weekly Progress",
+      "previousWeek": "Previous Week",
+      "currentWeek": "Current Week"
+    },
+    "days": {
+      "Sun": "Sun",
+      "Mon": "Mon",
+      "Tue": "Tue",
+      "Wed": "Wed",
+      "Thu": "Thu",
+      "Fri": "Fri",
+      "Sat": "Sat"
+    },
+    "stats": {
+      "title": "Your Stats",
+      "monthlyComparison": "Monthly comparison",
+      "weeklyComparison": "Weekly comparison",
+      "week": "Week",
+      "loading": "Loading stats..."
+    },
+    "profile": {
+      "title": "My Profile",
+      "changePhoto": "Change Photo",
+      "name": "Name",
+      "gender": "Gender",
+      "selectGender": "Select Gender",
+      "male": "Male",
+      "female": "Female",
+      "other": "Other",
+      "birthday": "Birthday",
+      "weight": "Weight (kg)",
+      "height": "Height (cm)",
+      "fitnessGoals": "Fitness Goals",
+      "workoutDays": "Workout Days",
+      "preferredActivity": "Preferred Activity",
+      "selectActivity": "Select Activity",
+      "detectLocation": "Detect Location",
+      "location": "Location",
+      "notifications": "Notifications",
+      "saveProfile": "Save Profile",
+      "successTitle": "Success",
+      "savedMsg": "Profile saved!",
+      "updateTitle": "Updated",
+      "updatedMsg": "Profile updated!",
+      "errorTitle": "Error",
+      "saveFailMsg": "Failed to save or update profile",
+      "saveError": "Could not save profile",
+      "invalidPhotoTitle": "Invalid Photo",
+      "invalidPhotoMsg": "Please re-select or upload your profile photo.",
+      "permissionDeniedTitle": "Permission Denied",
+      "permissionDeniedMsg": "Location permission is required to detect your location.",
+      "locationError": "Could not fetch your location.",
+      "permissionTitle": "Permissions",
+      "permissionPhotoMsg": "We need permission to access photos",
+      "fitnessGoalOptions": [
+        "Lose Weight",
+        "Gain Muscle",
+        "Improve Endurance",
+        "Flexibility",
+        "Stay Healthy"
+      ],
+      "workoutDaysList": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "activities": {
+        "spinning": "Spinning",
+        "running": "Running",
+        "gym": "Gym",
+        "walking": "Walking",
+        "yoga": "Yoga",
+        "basketball": "Basketball",
+        "tennis": "Tennis",
+        "swimming": "Swimming"
+      }
+    },
+    "goals": {
+    "title": "Your Goals",
+    "suggestion": "Suggestion",
+    "extraActivityTip": "Also, remember to plan your {{activity}} at least once a week to keep it in the mix and stay balanced!"
+     },
+     
+    "weekDetail": {
+    "title": "Current Week Overview",
+    "progressCompleted": "{{percent}}% completed"
+    },
+    
+    
+    "calendar": {
+    "planYourSchedule": "Plan your schedule",
+    "tapToSelectDate": "Tap to select date",
+    "currentMonthActivities": "Current month activities",
+    "view": "View",
+    "activityDetails": "Activity Details",
+    "addDescription": "Add a description...",
+    "cancel": "Cancel",
+    "save": "Save",
+    "addActivity": "✏️ Add Activity",
+    "date": "Date",
+    "activityName": "Activity Name",
+    "tapToSelectTime": "Tap to select time",
+    "durationMinutes": "Duration (minutes)",
+    "saveActivity": "➕ Save Activity",
+    "changeDate": "Change Date",
+    "minutes": "min",
+    "delete": "Delete",
+    "fillAllFields": "⚠️ Please fill all fields",
+    "activitySaved": "✅ Activity saved!",
+    "activitySaveFailed": "❌ Failed to save activity",
+    "errorOccurred": "❌ An error occurred.",
+    "activityDeleted": "🗑️ Activity deleted!",
+    "failedToDelete": "Failed to delete activity",
+    "descriptionUpdated": "✅ Description updated!",
+    "failedToUpdateDescription": "❌ Failed to update description"
+    },
+    "motivations": {
+      "zero": [
+        "Yo, {name}, big day ahead! Let’s crush it 💪",
+        "Wake up, {name}! It’s grind time 🌞",
+        "New day, new hustle — let’s get it, {name}! ✨",
+        "Energy check, fam! Let’s show ‘em what we’ve got ⚡",
+        "Warm-up time, {name}. Let’s get ready to work 🏋️‍♀️",
+        "Gear up, mindset on — time to go beast mode 🐯",
+        "Today’s a blank canvas, let’s paint it with some sweat 🎨",
+        "Let’s turn that potential into some real progress, {name}! 🔄",
+        "Little steps, big moves — start stepping, let’s go 🚶",
+        "Ready, set, let’s hit it! Your journey starts now 🏁"
+      ],
+      "upto25": [
+        "Looking good, {name}! Keep that energy rollin’ 🚀",
+        "First reps down — stay locked in, {name}! 🔥",
+        "Early wins, stack ‘em up — don’t stop 🧱",
+        "Nice start! Let’s build on that pace, keep movin’ 📈",
+        "You planted the seed, now water it, fam 🌱",
+        "A quarter of the way there, smooth sailing so far ⛵",
+        "That spark’s lit — let’s turn it into a fire 🔥",
+        "Early grind sets the tone — you’re killin’ it 🎸",
+        "Keep that engine runnin’, you’re on a roll 🛞",
+        "Momentum’s building — keep that hustle going 🏃"
+      ],
+      "upto50Excl": [
+        "Yo, nice pace, {name}! You’re almost halfway there 🏃‍♂️",
+        "You’re heating up, keep pushing 💨",
+        "Every move counts — that’s money in the bank 💰",
+        "Sweat’s your superpower — activate it 💪",
+        "Focus up — halfway’s coming soon 🛤️",
+        "Strength’s building, rep by rep — feel it 🔧",
+        "Stride steady, {name} — you’re on the right track 🧭",
+        "Great rhythm! Keep that vibe going 🎶",
+        "Confidence rising — you’re on fire 🔥",
+        "Progress is lookin’ sweet — keep it rollin’ 🖍️"
+      ],
+      "exact50": [
+        "Halfway, {name}! Catch your breath, then let’s crush it 🏁",
+        "50% done — now it’s time to finish strong ⛰️",
+        "Midpoint vibes — you’re killing the first half ✨",
+        "Halfway high-five, {name}! ✋",
+        "Break through the first lap, let’s hit that second wind 🏃‍♀️",
+        "Intermission’s over — act two’s on 🎬",
+        "Flip the hourglass — second half, here we go ⏳",
+        "Mid-workout swagger unlocked 😎",
+        "Celebrate the 50, but now we’re chasing that 100 🏆",
+        "Half charged — let’s top up and keep going 🔋"
+      ],
+      "upto75": [
+        "Yo, past halfway, {name}! Keep that fire burning 💯",
+        "Momentum’s real — keep that hustle going 💥",
+        "Fuel the fire, you’re cooking now 🔥",
+        "Grind mode: engaged — keep pushing 🚜",
+        "You’re the storm after the calm — let’s unleash 🌪️",
+        "Three-quarters in sight — keep your eyes on the prize 👀",
+        "Heart’s pumping, progress thumping 🫀",
+        "Stamina’s strong — let’s stretch it even further 🧘",
+        "Cruisin’ past 50% — greatness is on the way ✨",
+        "Turn it up! Keep pushing through 🎧"
+      ],
+      "upto100Excl": [
+        "Final stretch, {name}! Almost there ⚡",
+        "Push through to the finish line — almost at 100%! 🏆",
+        "Dig deep, the win is just around the corner 🏅",
+        "Sprint mentality now — finish strong 🏃‍♂️💨",
+        "Last reps are the best reps — make ‘em count ✊",
+        "Eyes on the prize — you can almost taste it 🎯",
+        "Beat the burn, victory’s one set away 🔥",
+        "Activate turbo mode — time to fly 🚀",
+        "So close, you can almost taste success — savor it 😋",
+        "Almost at 100 — own the moment 🌠"
+      ],
+      "complete": [
+        "All done, {name}! You’re a legend 🎉",
+        "Workout complete — time to celebrate 🥳",
+        "Gold-star effort, {name}! ⭐",
+        "You crushed it — time to relax 🛌",
+        "Mission complete — throw that smile up 😁",
+        "Success unlocked — you leveled up 🎮",
+        "Sweat paid off — cash in the gains 💸",
+        "Victory vibes — let’s dance it out 💃",
+        "Today’s diary entry: Conquered all goals 📔",
+        "Rest up, hydrate, and shine — you earned it 💧"
+      ]
+    },
+    "fitnessGoals": {
+    "title": "Your Fitness Goals",
+    "lose_weight": {
+      "title": "Lose Weight",
+      "descriptions": [
+        "Incorporate high-intensity cardio sessions into your weekly routine.",
+        "Track your calorie intake using a fitness app.",
+        "Replace sugary drinks with water or herbal teas.",
+        "Aim for 10,000 steps daily to stay active.",
+        "Include strength training 2–3 times per week to boost metabolism.",
+        "Get at least 7–8 hours of quality sleep to support fat loss."
+      ]
+    },
+    "gain_muscle": {
+      "title": "Gain Muscle",
+      "descriptions": [
+        "Focus on compound lifts like squats and deadlifts.",
+        "Increase your daily protein intake to support muscle growth.",
+        "Train each muscle group at least twice a week.",
+        "Track your progress with regular measurements.",
+        "Eat calorie-dense foods to maintain a surplus.",
+        "Allow sufficient rest and recovery between sessions."
+      ]
+    },
+    "improve_endurance": {
+      "title": "Improve Endurance",
+      "descriptions": [
+        "Gradually increase your cardio duration each week.",
+        "Incorporate interval running or cycling.",
+        "Monitor your heart rate zones for optimal training.",
+        "Stay hydrated and fuel properly before long sessions.",
+        "Add cross-training like swimming or hiking.",
+        "Focus on consistent breathing techniques."
+      ]
+    },
+    "flexibility": {
+      "title": "Improve Flexibility",
+      "descriptions": [
+        "Add a daily 10-minute stretching routine.",
+        "Hold each stretch for at least 30 seconds.",
+        "Try yoga or Pilates once a week.",
+        "Warm up with dynamic stretches before workouts.",
+        "Use foam rolling to release tight muscles.",
+        "Avoid bouncing during static stretches."
+      ]
+    },
+    "stay_healthy": {
+      "title": "Stay Healthy",
+      "descriptions": [
+        "Maintain a balanced diet with whole foods.",
+        "Exercise at least 150 minutes per week.",
+        "Prioritize sleep and stress management.",
+        "Get regular medical checkups.",
+        "Limit screen time before bed.",
+        "Practice mindfulness or meditation daily."
+      ]
+    },
+    "suggestions": {
+      "more_than_5_days": "You're crushing it, but don't forget that rest is equally important. Taking breaks can help prevent burnout and injury. Try reducing the days for better recovery.",
+      "2_days_or_less": "You’ve chosen just {{days}} day(s) so far. To see quicker progress, aim to add more days to your routine. The more consistent you are, the faster you’ll hit your goals!",
+      "3_to_5_days": "You're doing great with {{days}} day(s)! As a tip, try to distribute those days throughout the week and add some rest in between. It’ll help you stay fresh and consistent."
+    }
+  }
+
+  }
+  

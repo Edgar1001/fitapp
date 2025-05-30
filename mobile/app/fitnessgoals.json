@@ -1,0 +1,58 @@
+{
+  "lose weight": {
+    "title": "Lose Weight",
+    "descriptions": [
+      "Incorporate high-intensity cardio sessions into your weekly routine.",
+      "Track your calorie intake using a fitness app.",
+      "Replace sugary drinks with water or herbal teas.",
+      "Aim for 10,000 steps daily to stay active.",
+      "Include strength training 2–3 times per week to boost metabolism.",
+      "Get at least 7–8 hours of quality sleep to support fat loss."
+    ]
+  },
+  "gain muscle": {
+    "title": "Gain Muscle",
+    "descriptions": [
+      "Focus on compound lifts like squats and deadlifts.",
+      "Increase your daily protein intake to support muscle growth.",
+      "Train each muscle group at least twice a week.",
+      "Track your progress with regular measurements.",
+      "Eat calorie-dense foods to maintain a surplus.",
+      "Allow sufficient rest and recovery between sessions."
+    ]
+  },
+  "improve endurance": {
+    "title": "Improve Endurance",
+    "descriptions": [
+      "Gradually increase your cardio duration each week.",
+      "Incorporate interval running or cycling.",
+      "Monitor your heart rate zones for optimal training.",
+      "Stay hydrated and fuel properly before long sessions.",
+      "Add cross-training like swimming or hiking.",
+      "Focus on consistent breathing techniques."
+    ]
+  },
+  "flexibility": {
+    "title": "Improve Flexibility",
+    "descriptions": [
+      "Add a daily 10-minute stretching routine.",
+      "Hold each stretch for at least 30 seconds.",
+      "Try yoga or Pilates once a week.",
+      "Warm up with dynamic stretches before workouts.",
+      "Use foam rolling to release tight muscles.",
+      "Avoid bouncing during static stretches."
+    ]
+  },
+  "stay healthy": {
+    "title": "Stay Healthy",
+    "descriptions": [
+      "Maintain a balanced diet with whole foods.",
+      "Exercise at least 150 minutes per week.",
+      "Prioritize sleep and stress management.",
+      "Get regular medical checkups.",
+      "Limit screen time before bed.",
+      "Practice mindfulness or meditation daily."
+    ]
+  }
+}
+
