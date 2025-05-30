@@ -62,22 +62,23 @@ It helps users track their physical activity, set personalized goals, and visual
 1. Clone the repository
    ```bash
    git clone https://github.com/your-username/fitapp.git
-   cd fitap
-p```
+   cd fitapp```
 2. Install dependencies
-```bash
+   ```bash
    npm install
    or
    yarn install
-```
+   ```
 
 3. Run on Android:
    Make sure an emulator is running or a device is connected
-  ```bash npx react-native run-android```
+  ```bash
+   npx react-native run-android
+  ```
 
 4. Run on iOS:
    Only on macOS with Xcode and CocoaPods installed
    ```bash
-	 npx pod-install
-	npx react-native run-ios```
-
+   npx pod-install
+   npx react-native run-ios
+   ```
