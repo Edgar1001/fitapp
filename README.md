@@ -1,6 +1,6 @@
-# FitApp
+# Fitapp
 
-**FitApp** is a modern fitness tracking mobile application built with React Native and TypeScript, designed for both Android and iOS platforms. 
+**Fitapp** is a modern fitness tracking mobile application built with React Native and TypeScript, designed for both Android and iOS platforms. 
 It helps users track their physical activity, set personalized goals, and visualize their progress using intuitive and interactive layouts.
 
 ---
