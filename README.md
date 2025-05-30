@@ -72,9 +72,9 @@ It helps users track their physical activity, set personalized goals, and visual
 
 3. Run on Android:
    Make sure an emulator is running or a device is connected
-  ```bash
+   ```bash
    npx react-native run-android
-  ```
+   ```
 
 4. Run on iOS:
    Only on macOS with Xcode and CocoaPods installed
