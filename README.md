@@ -61,8 +61,9 @@ It helps users track their physical activity, set personalized goals, and visual
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/fitapp.git
-   cd fitapp```
+   git clone
+   cd fitapp
+   ```
 2. Install dependencies
    ```bash
    npm install
