@@ -83,3 +83,14 @@ It helps users track their physical activity, set personalized goals, and visual
    npx pod-install
    npx react-native run-ios
    ```
+## Examples
+
+Here are some usage examples of the app in action:
+
+### Home Screen
+![Home Screen](images/home.gif)
+
+### Config options
+![Calendar Screen](images/config.gif)
+
+
